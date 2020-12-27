@@ -13,4 +13,4 @@ run to compile project
 - needs nasm compiler
 
 ### fd0.img
-disket image, connect this to virtual PC
+diskette image, connect this to virtual PC
